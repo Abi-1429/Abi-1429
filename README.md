@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Abi-1429 Banner" width="100%">
-</p>
+
 
 <div align="center">
 

@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="banner.svg" alt="Abi-1429 Banner" width="100%">
-</div>
+  
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+    Hi, I'm M ABIRAMI
+  </h1>
 
-<br>
+  <h3>📊 Data Analytics &bull; 📈 Business Intelligence &bull; 💻 Web Development</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast+%F0%9F%93%8A;Power+BI+Developer+%F0%9F%93%88;Web+Developer+%F0%9F%92%BB;Turning+Raw+Data+Into+Actionable+Insights+%E2%9C%A8" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;Power+BI+Developer;Turning+Raw+Data+Into+Actionable+Insights;Building+Modern+Web+Apps" alt="Typing SVG" />
 
-<p align="center">
+  <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=Abi-1429&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-</p>
+  
+</div>
 
 ---
 

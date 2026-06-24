@@ -8,10 +8,6 @@
   <h3>📊 Data Analytics &bull; 📈 Business Intelligence &bull; 💻 Web Development</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;Power+BI+Developer;Turning+Raw+Data+Into+Actionable+Insights;Building+Modern+Web+Apps" alt="Typing SVG" />
-
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=Abi-1429&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
   
 </div>
 
